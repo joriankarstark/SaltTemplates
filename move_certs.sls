@@ -6,6 +6,7 @@
     - user: drew
     - group: drew
     - mode: 600
+/srv/salt/certs/Manelle.ovpn:
   file:
     - source: salt://certs/Manelle.ovpn
     - makedirs: True
