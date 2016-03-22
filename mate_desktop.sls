@@ -1,6 +1,9 @@
 mate-desktop:
   pkg:
     - installed
+mate-*
+  pkg:
+    - installed
 firefox:
   pkg:
     - installed
