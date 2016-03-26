@@ -40,3 +40,21 @@ mate-session-manager:
 mate-icon-theme:
   pkg:
     - installed
+mate-media:
+  pkg:
+    - installed
+mate-menus-preferences-category-menu:
+  pkg:
+    - installed
+mate-power-manager:
+  pkg:
+    - installed
+mate-screensaver:
+  pkg:
+    - installed
+mate-settings-daemon:
+  pkg:
+    - installed
+mate-system-monitor:
+  pkg:
+    - installed
