@@ -6,3 +6,5 @@ base:
     - x2go-server
   'minion1.localdomain':
     - move_certs
+  'minion2.localdomain':
+    - htop
